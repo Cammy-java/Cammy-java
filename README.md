@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cammy-java
+- 👋 Hi, I’m @Cammy-Codes
 - 👀 I’m interested in Java, Python
 - 🌱 I’m currently learning java, Python
 - 📫 How to reach me DISCORD: Camden_here
